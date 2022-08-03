@@ -1,0 +1,31 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-size: 20px;
+}
+.forma-block {
+	width: 520px;
+	margin: auto;
+	margin-top: 20px;
+}
+.forma-block input {
+	width: 400px;
+	height: 70px;
+	border-radius: 10px;
+	background-color: orange;
+	border: 2px solid rgb(21, 6, 6);
+	outline: none;
+}
+.forma-block button {
+	width: 100px;
+	height: 70px;
+	border: 2px solid rgb(21, 6, 6);
+	border-radius: 10px;
+	outline: none;
+	margin-left: 20px;
+	background: orange;
+}
+.forma-block button:hover {
+	background: rgb(85, 99, 204);
+}
